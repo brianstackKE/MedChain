@@ -12,7 +12,7 @@ export default function Home() {
     <div
       className="min-h-screen"
       style={{
-        backgroundImage: "url('/peaceful-person-meditating-in-nature-with-calming-.jpg')",
+        backgroundImage: "url('/bg.png')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundAttachment: "fixed",
